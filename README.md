@@ -7,7 +7,7 @@
 ## 🔧 Tech Stack & Skills  
 - **Programming:** Python (Pandas, TensorFlow/Keras), Java, C  
 - **Tools:** Git, IntelliJ, Jupyter Notebook  
-- **Other Skills:** Machine Learning, Deep Learning, Object-Oriented Programming, Data Analysis   
+- **Other Skills:** Machine Learning, Deep Learning, Object-Oriented Programming, Data Analysis, LaTeX   
 
 ## 🏆 Projects  
 
