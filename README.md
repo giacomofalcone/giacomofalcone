@@ -23,5 +23,5 @@ Collaborated with a team to create a board game using object-oriented programmin
 
 ## 📫 Let's connect!
 📍 Based in Milan, Italy  
-✉️ giacomofalcone42@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/giacomo-falcone-887b19250/) 
+✉️ **Email**: giacomofalcone42@gmail.com  
+🔗 **LinkedIn**: [Giacomo Falcone](https://www.linkedin.com/in/giacomo-falcone-887b19250/) 
