@@ -2,7 +2,7 @@
 
 🎓 MSc in Computer Engineering & FinTech @ Politecnico di Milano (EIT Digital)  
 💡 Passionate about blockchain, fintech, and software development  
-🚀 Looking for an internship in early 2026 in the financial or blockchain sector  
+🚀 Looking for an internship in early 2026 in the financial sector  
 
 ## 🔧 Tech Stack & Skills  
 - **Programming:** Python (Pandas, TensorFlow/Keras), Java, C  
