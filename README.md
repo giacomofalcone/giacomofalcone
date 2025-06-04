@@ -13,7 +13,7 @@
 
 ### 🔹 **Reinforcement Learning for Crypto Trading**
 Developed a custom OpenAI Gym environment and trained a PPO agent to trade Bitcoin using long, short, and hold strategies. Incorporated technical indicators, portfolio state, and reward shaping to improve decision-making.
-📌 *Tech: Python, Stable-Baselines3, Gym, Pandas, Matplotlib*
+📌 *Tech: Python, Stable-Baselines3, Gym, Pandas, Matplotlib*  
 🔗 [View project](https://github.com/giacomofalcone/crypto-rl-trading.git)
 
 ### 🔹 **Crypto Market Sentiment Analysis on Social Media**  
@@ -25,7 +25,7 @@ Developed a Python script leveraging social media data to analyze sentiment tren
 Worked on two advanced deep learning projects involving image classification and segmentation:  
 - **Blood Cell Classification**: Developed a model to classify blood cell images into 8 different categories using deep learning techniques. Improved accuracy through data augmentation and transfer learning.  
 - **Martian Terrain Segmentation**: Built a U-Net-based model for semantic segmentation of Mars surface images, enhancing performance through targeted data augmentation and weighted loss adjustments.  
-📌 *Tech: Python, TensorFlow/Keras, CNNs, Transfer Learning, Data Augmentation*
+📌 *Tech: Python, TensorFlow/Keras, CNNs, Transfer Learning, Data Augmentation*  
 🔗 [View project](https://github.com/giacomofalcone/deep-learning-AN2DL.git)
 
 ### 🔹 **Board Game Development in Java**  
