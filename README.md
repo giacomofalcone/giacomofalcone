@@ -14,7 +14,7 @@
 ### 🔹 **Reinforcement Learning for Crypto Trading**
 Developed a custom OpenAI Gym environment and trained a PPO agent to trade Bitcoin using long, short, and hold strategies. Incorporated technical indicators, portfolio state, and reward shaping to improve decision-making.
 📌 *Tech: Python, Stable-Baselines3, Gym, Pandas, Matplotlib*
-`🔗 [View project](https://github.com/giacomofalcone/crypto-rl-trading.git)`
+`🔗 ([https://github.com/giacomofalcone/crypto-rl-trading.git](https://github.com/giacomofalcone/crypto-rl-trading.git))`
 
 ### 🔹 **Crypto Market Sentiment Analysis on Social Media**  
 Developed a Python script leveraging social media data to analyze sentiment trends in the cryptocurrency market.  
