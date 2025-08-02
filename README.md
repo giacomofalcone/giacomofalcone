@@ -21,7 +21,7 @@ Developed a Python script leveraging social media data to analyze sentiment tren
 📌 *Tech: Python (Pandas), Jupyter Notebook*  
 🔗 [View project](https://github.com/giacomofalcone/crypto-sentiment-analysis.git)
 
-### 🔹 **Deep Learning & Computer Vision Projects**  
+### 🔹 **Deep Learning Projects**  
 Worked on two advanced deep learning projects involving image classification and segmentation.  
 **Blood Cell Classification**: Developed a model to classify blood cell images into 8 different categories using deep learning techniques. Improved accuracy through data augmentation and transfer learning.  
 **Martian Terrain Segmentation**: Built a U-Net-based model for semantic segmentation of Mars surface images, enhancing performance through targeted data augmentation and weighted loss adjustments.  
