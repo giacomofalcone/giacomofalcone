@@ -5,7 +5,7 @@
 🚀 Looking for an internship in early 2026 in the financial sector  
 
 ## 🔧 Tech Stack & Skills  
-- **Programming:** Python (Pandas, TensorFlow/Keras), Java, C  
+- **Programming:** Python (Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch), SQL, C, Java 
 - **Tools:** Git, IntelliJ, Jupyter Notebook  
 - **Other Skills:** Machine Learning, Deep Learning, Object-Oriented Programming, Data Analysis, LaTeX   
 
