@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Giacomo Falcone  
 
 🎓 MSc in Computer Engineering & FinTech @ Politecnico di Milano (EIT Digital)  
-💡 Passionate about blockchain, fintech, and software development  
+💡 Passionate about blockchain, fintech, and machine learning  
 🚀 Looking for an internship in early 2026 in the financial sector  
 
 ## 🔧 Tech Stack & Skills  
