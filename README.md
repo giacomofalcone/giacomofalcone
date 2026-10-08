@@ -2,7 +2,7 @@
 
 🎓 MSc in Computer Science & Engineering (FinTech), Politecnico di Milano & Université de Rennes (EIT Digital double degree)  
 🔬 Master's thesis at IRISA (Inria / CNRS) on succinct proofs for Bitcoin light clients  
-📈 My work sits where distributed systems meet finance: blockchain protocols, quantitative trading, and machine learning on market data  
+📈 I work where distributed systems meet finance: blockchain protocols, quantitative trading, and machine learning on market data  
 🏅 1st place in the Université de Rennes ranking, Bloomberg Global Trading Challenge
 
 ## 🔧 Skills
